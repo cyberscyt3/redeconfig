@@ -1,0 +1,5 @@
+Houve um pequeno erro durante a configuração da máquina Windows XP, apresentada no arquivo "Demonstração de configuração Rede interna.pdf"
+
+Disponibilizei um pequeno PDF com a correção, para um melhor funcionamento da rede.
+
+Obrigado!
